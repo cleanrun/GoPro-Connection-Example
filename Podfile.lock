@@ -1,0 +1,20 @@
+PODS:
+  - ffmpeg-kit-ios-full (6.0)
+  - MobileVLCKit (3.6.0)
+
+DEPENDENCIES:
+  - ffmpeg-kit-ios-full
+  - MobileVLCKit
+
+SPEC REPOS:
+  trunk:
+    - ffmpeg-kit-ios-full
+    - MobileVLCKit
+
+SPEC CHECKSUMS:
+  ffmpeg-kit-ios-full: 0099a769d22114dde52cdc238397941c32f75d27
+  MobileVLCKit: 8fe98ae53b7464f32e4bdf527cc7d53053e4d3a5
+
+PODFILE CHECKSUM: ba72285cbe7326d4b7721b2a3ebc5e02882b3a2b
+
+COCOAPODS: 1.12.1
